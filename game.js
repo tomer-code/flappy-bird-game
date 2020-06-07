@@ -45,7 +45,7 @@ const startBtn = {
 }
 
 // CONTROL THE GAME
-document.addEventListener("keypress", function(evt){// "keypress does not work"
+document.addEventListener("keypress", function(evt){
     console.log(evt)
      //if(evt.keyCode == 32){
         console.log(evt)
